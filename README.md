@@ -8,7 +8,17 @@ The platform integrates with Meta APIs and webhook systems to process Instagram 
 
 # ✨ Features
 
+* Instagram account connection
+* Dashboard with basic analytics
+* Automation CRUD
 * Instagram DM automation
+* Select posts, reels, and stories
+* Keyword triggers
+* Public comment reply with variables
+* DM with text, image, and links
+* Lead management with CSV export
+* Follow Gate
+* Email Gate
 * Real-time Instagram comment handling
 * Meta webhook integration
 * Email-based passwordless authentication
@@ -33,6 +43,7 @@ The platform integrates with Meta APIs and webhook systems to process Instagram 
 ## Database
 
 * PostgreSQL
+* Redis
 
 ## Authentication
 
@@ -95,20 +106,20 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Posts&Reels
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 19-03-44" src="https://github.com/user-attachments/assets/f474b50a-4588-46c5-85e3-daf1beae2936" />
+<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/f3514c26-9b30-41e4-941f-d6ae670b6366" />
 ```
 ```
 
 ## Automation Create
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 19-01-20" src="https://github.com/user-attachments/assets/6715991f-c00a-4e6c-8265-cf4d5a1b6181" />
+<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/baa7b755-f5d7-4389-857d-de439d00b5e9" />
 
 ```
 ```
 
 ## Templates
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 19-01-45" src="https://github.com/user-attachments/assets/f5bae487-c104-4b4f-b9d5-87bb3457cc53" />
+<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/fbb7a65c-9920-4bc4-808a-dd3d406a35ba" />
 
 
 ```
@@ -118,7 +129,8 @@ These webhook events are received by the backend webhook route, processed by the
 
 <img width="1851" height="925" alt="Screenshot from 2026-05-22 18-58-44" src="https://github.com/user-attachments/assets/13f17022-426d-4fe2-949a-8e8d200c270b" />
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 18-59-42" src="https://github.com/user-attachments/assets/739ac77c-d96a-413a-8244-9ebae1ca662d" />
+<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/675d707d-cc94-41d0-a1ac-63e482d30f89" />
+
 
 ```
 ```
