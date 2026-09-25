@@ -100,26 +100,35 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Dashboard
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 20-23-50" src="https://github.com/user-attachments/assets/1d0af8ed-671c-4086-9401-c0a8e4671d61" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-33-16" src="https://github.com/user-attachments/assets/f09118e5-3bf0-43dc-bfad-eeee8902413c" />
+
 ```
 ```
 
 ## Posts&Reels
 
-<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/f3514c26-9b30-41e4-941f-d6ae670b6366" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-24-03" src="https://github.com/user-attachments/assets/0948b937-b9e8-47a7-baac-f4698b2476e7" />
 ```
 ```
 
 ## Automation Create
 
-<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/baa7b755-f5d7-4389-857d-de439d00b5e9" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-39-50" src="https://github.com/user-attachments/assets/2861d2f4-4195-4f4a-945b-e8ba48ee8a5c" />
 
 ```
 ```
 
 ## Templates
 
-<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/fbb7a65c-9920-4bc4-808a-dd3d406a35ba" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-35-15" src="https://github.com/user-attachments/assets/3b4cee3e-5833-4b44-aa42-13c896c91331" />
+
+
+```
+```
+
+## Prebuilt Templates
+
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-35-38" src="https://github.com/user-attachments/assets/2e8ffb3a-0ab7-4ef1-bfad-c11364cf8149" />
 
 
 ```
@@ -127,16 +136,25 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Connection
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 18-58-44" src="https://github.com/user-attachments/assets/13f17022-426d-4fe2-949a-8e8d200c270b" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-00-00" src="https://github.com/user-attachments/assets/a5c82703-bdcd-4a5d-a10b-61894204ca73" />
 
-<img width="1859" height="925" alt="image" src="https://github.com/user-attachments/assets/675d707d-cc94-41d0-a1ac-63e482d30f89" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-00-30" src="https://github.com/user-attachments/assets/058b1cc8-5ed4-4782-8f98-b2cc1d343faa" />
 
 
 ```
 ```
+
+## Subscription
+
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-36-19" src="https://github.com/user-attachments/assets/87fd7f23-8db6-444a-aa29-d63aa1efe2ea" />
+
+
+```
+```
+
 ## Profile
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 20-24-08" src="https://github.com/user-attachments/assets/3c5aa1f8-8e98-4a63-976e-bf4cd20e7b15" />
+<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-36-41" src="https://github.com/user-attachments/assets/c49e6a6b-2336-4eab-8ab5-a2d1621d795d" />
 
 ---
 
