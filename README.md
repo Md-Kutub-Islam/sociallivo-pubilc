@@ -113,7 +113,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Automation Create
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-39-50" src="https://github.com/user-attachments/assets/2861d2f4-4195-4f4a-945b-e8ba48ee8a5c" />
+<img width="1860" height="930" alt="image" src="https://github.com/user-attachments/assets/8fb7414a-fb8a-4157-806d-1bdd9d8debfb" />
 
 ```
 ```
