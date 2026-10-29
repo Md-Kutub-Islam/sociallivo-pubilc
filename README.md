@@ -1,6 +1,6 @@
-# 🚀 ReplyZen — Instagram DM Automation Platform
+# 🚀 SOCIALLIVO — Instagram DM Automation Platform
 
-ReplyZen is a web application focused on Instagram DM automation, helping users automate interactions and manage engagement workflows through a clean and modern interface.
+SOCIALLIVO is a web application focused on Instagram DM automation, helping users automate interactions and manage engagement workflows through a clean and modern interface.
 
 The platform integrates with Meta APIs and webhook systems to process Instagram events in real time and automate communication workflows efficiently.
 
@@ -67,7 +67,7 @@ Meta's servers send webhook events containing:
 * Comment text
 * Sender details
 
-These webhook events are received by the backend webhook route, processed by the service layer, and used to trigger automation workflows inside ReplyZen.
+These webhook events are received by the backend webhook route, processed by the service layer, and used to trigger automation workflows inside SOCIALLIVO.
 
 ---
 
@@ -161,7 +161,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 # 🔐 Note
 
-This repository is a public showcase version of ReplyZen.
+This repository is a public showcase version of SOCIALLIVO.
 
 The production source code remains private due to ongoing development, and Meta API integration requirements.
 
