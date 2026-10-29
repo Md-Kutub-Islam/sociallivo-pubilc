@@ -90,37 +90,46 @@ These webhook events are received by the backend webhook route, processed by the
 
 # 📸 Screenshots
 
+## Sign up
+
+<img width="1842" height="927" alt="signup" src="https://github.com/user-attachments/assets/7a03d541-fc6d-4e21-8469-1cf62ca3dad1" />
+
+
+
+```
+```
 
 ## Account Setup
 
-<img width="1851" height="925" alt="Screenshot from 2026-05-22 18-45-52" src="https://github.com/user-attachments/assets/5dea6943-9855-4905-8566-9618505e3463" />
+<img width="1842" height="927" alt="account-setup" src="https://github.com/user-attachments/assets/af9f02ce-2aa9-4f73-95e2-d4008cfda7bd" />
+
 
 ```
 ```
 
 ## Dashboard
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-33-16" src="https://github.com/user-attachments/assets/f09118e5-3bf0-43dc-bfad-eeee8902413c" />
+<img width="1853" height="927" alt="dashboard" src="https://github.com/user-attachments/assets/d99b7239-bffd-4b87-b9bc-b2167b19236e" />
 
 ```
 ```
 
 ## Posts&Reels
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-24-03" src="https://github.com/user-attachments/assets/0948b937-b9e8-47a7-baac-f4698b2476e7" />
+<img width="1853" height="927" alt="post reels" src="https://github.com/user-attachments/assets/313ab4d0-62f4-4991-bbd6-49a4807f20a5" />
 ```
 ```
 
 ## Automation Create
 
-<img width="1860" height="930" alt="image" src="https://github.com/user-attachments/assets/8fb7414a-fb8a-4157-806d-1bdd9d8debfb" />
+<img width="1842" height="927" alt="automation-form1" src="https://github.com/user-attachments/assets/71d3d0e2-ca10-44d7-884e-edb4bc9dcebd" />
 
 ```
 ```
 
 ## Templates
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-35-15" src="https://github.com/user-attachments/assets/3b4cee3e-5833-4b44-aa42-13c896c91331" />
+<img width="1853" height="927" alt="template" src="https://github.com/user-attachments/assets/1858a22f-ef7c-490a-9e1b-13a97bd1625d" />
 
 
 ```
@@ -128,7 +137,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Prebuilt Templates
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-35-38" src="https://github.com/user-attachments/assets/2e8ffb3a-0ab7-4ef1-bfad-c11364cf8149" />
+<img width="1853" height="927" alt="prebuilt-template" src="https://github.com/user-attachments/assets/94a77f3a-c047-4813-85a1-c8eb0183d399" />
 
 
 ```
@@ -136,9 +145,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Connection
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-00-00" src="https://github.com/user-attachments/assets/a5c82703-bdcd-4a5d-a10b-61894204ca73" />
-
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-00-30" src="https://github.com/user-attachments/assets/058b1cc8-5ed4-4782-8f98-b2cc1d343faa" />
+<img width="1853" height="927" alt="conected-account" src="https://github.com/user-attachments/assets/7cb677dc-2712-4d8f-b1c3-7ea0a7ddaf8a" />
 
 
 ```
@@ -146,7 +153,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Subscription
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-36-19" src="https://github.com/user-attachments/assets/87fd7f23-8db6-444a-aa29-d63aa1efe2ea" />
+<img width="1842" height="927" alt="subscription1" src="https://github.com/user-attachments/assets/e55228a2-309a-4fde-847c-b229fe5cd720" />
 
 
 ```
@@ -154,7 +161,7 @@ These webhook events are received by the backend webhook route, processed by the
 
 ## Profile
 
-<img width="1853" height="920" alt="Screenshot from 2026-09-25 19-36-41" src="https://github.com/user-attachments/assets/c49e6a6b-2336-4eab-8ab5-a2d1621d795d" />
+<img width="1842" height="927" alt="image" src="https://github.com/user-attachments/assets/55403c0b-71fb-4757-8274-24d27a60fd50" />
 
 ---
 
